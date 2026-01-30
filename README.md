@@ -49,7 +49,7 @@ The project includes:
 - Historical trend comparison
 - Country-level happiness distribution
 
-(See `/visuals` directory)
+(See `Power BI Dashboard` directory)
 
 ---
 
