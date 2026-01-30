@@ -53,7 +53,7 @@ The project includes:
 
 ## Power BI Dashboard
 📌 Interactive dashboard available here:  
-👉 **[Add Power BI link]**
+👉 **[[Add Power BI link]](https://app.powerbi.com/view?r=eyJrIjoiNmFkN2MyNmUtYmQyYi00ZTRhLTg4NTQtODlmMzM1YTM1NmUzIiwidCI6IjMyYjI3ZjU0LTA5ZmItNDhhZi05YzE3LTBmOThhNWQ1OThiZiIsImMiOjh9)**
 
 ---
 
