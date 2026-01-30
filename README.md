@@ -42,6 +42,8 @@ powerbi/ → Power BI dashboard link
 ---
 
 ## Visualizations
+<img width="493" height="385" alt="Picture1" src="https://github.com/user-attachments/assets/0e9979a5-8802-4657-a2cd-09e67e02e627" />
+
 The project includes:
 - GDP vs Life Ladder regression plot
 - Historical trend comparison
