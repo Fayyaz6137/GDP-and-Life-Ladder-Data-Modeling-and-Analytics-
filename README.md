@@ -69,4 +69,14 @@ The project includes:
 3. Open the notebook:
     ```
    Data Management Project.ipynb
+    
+---
+
+## Data Dictionary
+| Column Name           | Data Type | Description                                                                                                                                                   | Example       |
+| --------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
+| `Country name`        | String    | Name of the country for which the data is recorded.                                                                                                           | `Italia`      |
+| `year`                | Integer   | Year in which the data was observed.                                                                                                                          | `2025`        |
+| `Life Ladder`         | Float     | Numeric indicator representing a country-level Happiness Score.                                                                                               | `2.375`       |
+| `Log GDP per capita`  | Float     | Numeric indicator representing a Logged Value of GDP Per Capita.                                                                                              | `7.697`       |
 
