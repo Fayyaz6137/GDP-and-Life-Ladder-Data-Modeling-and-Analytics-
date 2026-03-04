@@ -61,7 +61,7 @@ gdp-life-ladder-etl/
 ├── data/
 │      ├── raw/ csv file
 │      ├── processed/ sqllite3 db file
-└── src/
+├── src/
 │      ├── extractors/ 
 │      │      ├── api_reader.py
 │      │      ├── csv_reader.py
@@ -72,7 +72,7 @@ gdp-life-ladder-etl/
 │      ├── loaders/
 │      │      ├── sqlite3_loader.py
 │      └── utils/
-│            ├── config.py
+│             ├── config.py
 ├── README.md.txt
 ├── PowerBI Dashboard Link.txt
 └── requirements.txt
